@@ -24,3 +24,10 @@
 <li>Διάφορες μπαταρίες 	x	1</li>
 </ul>
 
+<h3>  
+   
+[Βίντεο από τη λειτουργία του project]
+
+[![Disabled people assistant](ttps://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://www.youtube.com/watch?v=kTPPisgEyQc)
+
+
